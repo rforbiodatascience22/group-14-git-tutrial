@@ -6,5 +6,9 @@
 Swati.html
 =======
 stupid_file.txt
+<<<<<<< HEAD
 Markdown.htlm
 >>>>>>> a348c06b9c26952125baaadf42acb9ef40b9c3e1
+=======
+**/Markdown.html
+>>>>>>> a5ba88dfba6a2ac59d184d6aa86a7c5ab7452e85
